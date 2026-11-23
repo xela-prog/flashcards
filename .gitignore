@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+ 
+# Java / Maven
+target/
+*.class
+ 
+# IDEs
+.idea/
+.vscode/
+*.iml
+ 
+# Secrets and local config
+.env
+*.log
